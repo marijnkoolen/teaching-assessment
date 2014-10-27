@@ -12,4 +12,4 @@ This is an example GitHub repository set up to validate HTML content using [html
 5. Read the [GitHub Education Guide](https://education.github.com/guide) to learn how to set up classroom assignments in this way.
 
 #### Is it passing?
-[![Build Status](https://travis-ci.org/arfonsmith/teaching-assessment.svg?branch=master)](https://travis-ci.org/arfonsmith/teaching-assessment)
+[![Build Status](https://travis-ci.org/marijnkoolen/teaching-assessment.svg?branch=master)](https://travis-ci.org/marijnkoolen/teaching-assessment.svg?branch=master)
